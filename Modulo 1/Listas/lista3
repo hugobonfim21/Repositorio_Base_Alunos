@@ -1,0 +1,4 @@
+Lista = ['a','b','c','d']
+Lista[1] = 'x'
+
+print(Lista)

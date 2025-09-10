@@ -1,0 +1,4 @@
+Lista = ['phyton','java','c++']
+Lista = Lista.pop(1)
+ 
+ print(valor,lista)

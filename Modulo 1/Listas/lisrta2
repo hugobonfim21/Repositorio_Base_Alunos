@@ -1,0 +1,4 @@
+Lista = [10,20,30]
+Lista.insert(1,15)
+
+print(lista)

@@ -1,0 +1,8 @@
+Lista = [10, 20, 30, 40, 50]
+Lista.append(60)
+lista.insert(15,1)
+lista.remove(30)
+
+ultimo = lista.pop()
+
+print(lista,ultimo)

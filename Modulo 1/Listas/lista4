@@ -1,0 +1,3 @@
+Lista = [5,10,15,20]
+del Lista[2]
+print(lista)
